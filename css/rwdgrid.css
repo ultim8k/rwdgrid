@@ -36,6 +36,7 @@ Github URI: https://github.com/gsvineeth/rwdgrid/
 	padding: 10px;
 	width: 100%;
 }
+.grid-no-space { padding: 0; }
 .clear-grid{
 	clear: both;
 	float: inherit;
